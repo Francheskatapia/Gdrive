@@ -25,7 +25,7 @@ Este proyecto implementa un sistema de respaldo automático en **Ubuntu Server**
 
 ## 🚀 Instrucciones rápidas
 
-- Dar permisos al script:
-- Instalar y configurar rclone:
-- Agregar entrada en crontab:
+- Dar permisos al script
+- Instalar y configurar rclone
+- Agregar entrada en crontab
 
