@@ -9,7 +9,7 @@ Este proyecto implementa un sistema de respaldo automático en **Ubuntu Server**
 ## 📌 ¿Qué hace?
 
 - Ejecuta un script (`backup.sh`) que comprime archivos y los sube a Google Drive.
-- Se ejecuta todos los días a las **04:15 AM** automáticamente gracias a `cron`.
+- Se ejecuta todos los días a las **08:00 AM** automáticamente gracias a `cron`.
 - Guarda logs de salida y errores para monitorear la ejecución.
 
 ---
