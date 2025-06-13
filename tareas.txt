@@ -1,0 +1,1 @@
+0 08 * * * /home/rian/Desktop/backup.sh >> /home/rian/respaldo.log 2>> /home/rian/respaldo_error.log
